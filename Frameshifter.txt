@@ -1,0 +1,8 @@
+@inproceedings{jabiyev2022a,
+  title = {FRAMESHIFTER: Security Implications of HTTP/2-to-HTTP/1 Conversion Anomalies},
+  year = {2022},
+  month = aug,
+  author = {Jabiyev, Bahruz and Sprecher, Steven and Gavazzi, Anthony and Innocenti, Tommaso and Onarlioglu, Kaan and Kirda, Engin},
+  booktitle = {31th USENIX Security Symposium},
+  month_numeric = {8}
+}

@@ -1,0 +1,8 @@
+@inproceedings{Innocentiresetmail,
+	author = {Innocenti, Tommaso and Mirheidari Ali and Kharraz, Amin and Crispo, Bruno and Kirda, Engin},
+	booktitle = {Detection of Intrusions and Malware, and Vulnerability Assessment},
+	isbn = {978-3-030-80825-9},
+	pages = {1--20},
+	publisher = {Springer International Publishing},
+	title = {You've Got (a Reset) Mail: A Security Analysis of Email-Based Password Reset Procedures},
+	year = {2021}}

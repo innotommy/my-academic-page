@@ -1,0 +1,8 @@
+@inproceedings{acsac2023oauth, 
+ author = {Tommaso Innocenti and Matteo Golinelli and Kaan Onarlioglu and Bruno Crispo and Engin Kirda},
+ title = {{OAuth 2.0 Redirect URI Validation Falls Short, Literally}},
+ booktitle = {Annual Computer Security Applications Conference (ACSAC)},
+ month = Dec,
+ year = {2023},
+ doi={https://doi.org/10.1145/3627106.3627140}
+}
